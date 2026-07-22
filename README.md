@@ -15,7 +15,7 @@ Each problem has its own `.sql` file, named by problem number and title, so it's
 ## 📁 Structure
 
 
-sorting-and-grouping/
+sorting-and-grouping/  
 ├── 2356-number-of-unique-subjects-taught-by-each-teacher.sql
 
 
@@ -36,7 +36,7 @@ Each file includes:
 
 ## 📈 Stats
 
-- Total Solved: **25**
+- Total Solved: **50**
 - Easy: 🟢 32 · Medium: 🟡 17 · Hard: 🔴 1
 
 ---
